@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WikipediaAutomationProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd4e8ec29fb3235c334415eedbd273736366694")]
 [assembly: System.Reflection.AssemblyProductAttribute("WikipediaAutomationProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WikipediaAutomationProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
